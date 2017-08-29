@@ -1,0 +1,15 @@
+server:
+ port:
+  80
+
+logging:
+  level:
+    org.springframework.web: DEBUG
+    com.wyh2020: DEBUG
+
+wechat:
+  mp:
+    appId: wx0bac8293e8504992
+    secret: 3f762b349e538531e9f09f3d4dc78a35
+    token: wyh911
+    aesKey: m31ZSht7xRjxXU7nafp2B7QkaD3oexei3T7rG1LZQBp
